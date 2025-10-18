@@ -44,4 +44,5 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 Items, Average Rating) broken down by different outlet types.
 
 # Report Snapshot
-https://github.com/chadhanaman19-lgtm/Blinkit-PowerBI-Project/blob/main/Report%20Snapshot.png
+<img width="1294" height="725" alt="Report Snapshot" src="https://github.com/chadhanaman19-lgtm/Blinkit-PowerBI-Project/blob/main/Report%20Snapshot.png" />
+
