@@ -42,3 +42,6 @@ Objective: Assess the geographic distribution of sales across different location
 
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of
 Items, Average Rating) broken down by different outlet types.
+
+# Report Snapshot
+https://github.com/chadhanaman19-lgtm/Blinkit-PowerBI-Project/blob/main/Report%20Snapshot.png
